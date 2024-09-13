@@ -10,7 +10,8 @@ export default {
   
   <style scoped>
   h1 {
-    font-size: 2rem;
+    font-size: 4rem;
     color: #42b983;
+    margin-bottom: 30px;
   }
   </style>
